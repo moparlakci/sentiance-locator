@@ -10,6 +10,7 @@ expo start
 # Documentation
 
 Used Redux for state management
+
 Used opencagedata for Reverse Geodata
 
 
